@@ -1,2 +1,2 @@
-#!/bini/bash
-rev
+#!/bin/bash
+echo "reverse" | rev
